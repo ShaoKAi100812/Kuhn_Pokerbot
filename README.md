@@ -1,6 +1,7 @@
 # Kuhn Poker Server Client
 ```diff
 - Initial setup given by school
+- Look at `documentation.md` to see what our gruop have done 
 
 This repository contains the skeleton code for the PokerBot project agent (server client). The currently implemented agent plays a random game,
 and does not yet recognize cards that are dealt as images.
