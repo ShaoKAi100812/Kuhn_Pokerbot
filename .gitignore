@@ -1,0 +1,20 @@
+.vscode/
+venv/
+.venv/
+db.sqlite3
+.ipynb_checkpoints
+.pytest_cache
+**/.DS_Store
+**/__pycache__
+# variables/
+*.pkl
+*.h5
+*.html
+.python-version
+dev-support/
+poker-server-backend/
+log/
+# ignore training/testing/validation datasets
+test/data_sets/test_images/*.png
+# ignore my own testing py file  
+testing.py      
